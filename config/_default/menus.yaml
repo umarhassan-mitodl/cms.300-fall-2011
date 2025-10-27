@@ -1,0 +1,52 @@
+leftnav:
+- identifier: c0f5c18b-451f-a868-c181-2733420bef40
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 74e8fb12-d6dc-3136-1a86-ca3e0ff3ce3d
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 29958a24-8964-74dc-30f5-a0a7eeef69b9
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 30
+- identifier: daaa35b2-4528-b838-7444-37415d0e46c6
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 49845ad7-06a4-05de-e4a1-d53b944f8c84
+  name: Choosing the Game
+  pageRef: /pages/assignments/choosing-the-game
+  parent: daaa35b2-4528-b838-7444-37415d0e46c6
+  weight: 10
+- identifier: 3daac9bc-9228-0b48-6ad7-c575309f189d
+  name: Game Analysis Guidelines
+  pageRef: /pages/assignments/game-analysis
+  parent: daaa35b2-4528-b838-7444-37415d0e46c6
+  weight: 20
+- identifier: 19e303b5-a43a-ada4-ab10-c25d13c01262
+  name: Some Basic Advice
+  pageRef: /pages/assignments/some-basic-advice
+  parent: daaa35b2-4528-b838-7444-37415d0e46c6
+  weight: 30
+- identifier: 821cc71d-0396-a289-9274-a471c4f2a7e2
+  name: 'Written Assignment 1: Learning to Play Videogames'
+  pageRef: /pages/assignments/written-assn-1
+  parent: daaa35b2-4528-b838-7444-37415d0e46c6
+  weight: 40
+- identifier: b6f14834-c7a3-33ed-ce42-a3ea1c983f1e
+  name: Written Assignment 2
+  pageRef: /pages/assignments/written-assn-2
+  parent: daaa35b2-4528-b838-7444-37415d0e46c6
+  weight: 50
+- identifier: 3ca691b0-d819-1229-50fa-215bca93b82d
+  name: Written Assignment 3
+  pageRef: /pages/assignments/assgn-3-req
+  parent: daaa35b2-4528-b838-7444-37415d0e46c6
+  weight: 60
+- identifier: f1dca572-d2dd-50b2-99d3-e8f6aecb2e48
+  name: Class Presentation
+  pageRef: /pages/assignments/class-presen
+  parent: daaa35b2-4528-b838-7444-37415d0e46c6
+  weight: 70
